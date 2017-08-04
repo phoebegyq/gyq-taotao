@@ -1,5 +1,6 @@
 com\taotao\mapper\TbItemDescMapper.class
 com\taotao\mapper\TbUserMapper.class
+<<<<<<< HEAD
 com\taotao\mapper\TbItemMapper.class
 com\taotao\mapper\TbContentMapper.class
 com\taotao\mapper\TbItemCatMapper.class
@@ -9,3 +10,14 @@ com\taotao\mapper\TbOrderItemMapper.class
 com\taotao\mapper\TbOrderShippingMapper.class
 com\taotao\mapper\TbContentCategoryMapper.class
 com\taotao\mapper\TbOrderMapper.class
+=======
+com\taotao\mapper\TbContentMapper.class
+com\taotao\mapper\TbItemParamItemMapper.class
+com\taotao\mapper\TbOrderShippingMapper.class
+com\taotao\mapper\TbOrderMapper.class
+com\taotao\mapper\TbItemMapper.class
+com\taotao\mapper\TbItemCatMapper.class
+com\taotao\mapper\TbItemParamMapper.class
+com\taotao\mapper\TbOrderItemMapper.class
+com\taotao\mapper\TbContentCategoryMapper.class
+>>>>>>> 9dd79c89f0448a69fdd042dccb8a53c73f503ac9
